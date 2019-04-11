@@ -1,0 +1,169 @@
+.link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+body {
+    background-image: url(images/war.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.igrac {
+    width: 240px;
+    height: 220px;
+    border: 1px solid black;
+    padding: 10px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+
+
+.center {
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.pravila {
+    width: 380px;
+}
+
+h3 {
+    color: #fff;
+}
+
+.borba label {
+    color: #fff;
+    font-size: 25px;
+
+}
+
+.color {
+    color: #fff;
+    font-size: 25px;
+    border: 2px solid #fff;
+}
+
+.borba input:not(:last-of-type) {
+    width: 50px;
+    height: 20px;
+}
+
+option {
+    font-size: 25px;
+
+}
+
+#pocetna {
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 200px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+#pocetna input {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline-block;
+    width: 150px;
+}
+
+
+
+#pocetna form {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+}
+
+#pocetna p {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+#pocetna label {
+    font-size: 20px;
+    color: #fff;
+}
+
+.size {
+    font-size: 25px;
+    color: #fff;
+    margin-left: 140px;
+}
+
+
+.vece {
+    height: 270px;
+
+}
+
+#info {
+    width: 200px;
+    height: 490px;
+    border: 1px solid black;
+    padding: 20px;
+    margin-left: 380px;
+}
+
+#info p {
+    font-size: 25px;
+    color: #fff;
+
+
+}
+
+.borba {
+    margin-left: 50px;
+}
+
+.title {
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    box-shadow: 10px 10px 103px 65px rgba(0, 0, 0, 0.75);
+    color: #fff;
+}
+
+.borba input[type=submit] {
+    margin-top: 10px;
+    margin-left: 40px;
+    padding: 10px;
+}
+
+.bar {
+    margin-bottom: 5px;
+    padding: 2px;
+    padding-left: 20px;
+    color: #fff;
+    border-radius: 50px;
+
+}
